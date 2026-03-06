@@ -1,0 +1,5 @@
+[
+  "tests/test_vuln_headers.py::TestHeaders::test_basic",
+  "tests/test_vuln_headers.py::TestHeaders::test_empty",
+  "tests/test_vuln_headers.py::TestHeaders::test_type_error"
+]
